@@ -1,1 +1,2 @@
 alpine:latest
+vaultwarden/server:latest
